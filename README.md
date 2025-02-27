@@ -2,7 +2,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18448677&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+Client satisfaction - ensures trust and meets clients expectations
+Competitive advantage - delivering on time keeps the business ahead of competitors
+Budget Control - Delays often lead to increased costs
+Team Morale - meeting deadlines maintains team motivation and productivity.
+To ensure deadlines are met, project managers can set clear goals by defing precise objectives and feliverables
+by breaking down tasks
+by allocating resources
+by monitoring progress
+by communicating 
+risk management
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Financial health - ensures the project stays within budget, preserving profitability
+Resource optimization - allocates resources efficiently, avoiding waste
+stakeholder confidence builds trust with clients and investors
+risk mitigation reduces financial risks associated with overruns
+strategies to prevent budget overruns include
+Accurate estimation - use historical data and expert judgment for realistic
+budgeting.
+Detailed planning - break down the project into phases with cler cost estimates
+Regular monitoring - Track expenses continuously and compare against the budget.
+Change management - implement a formal process to evaluate and approve scope changes
+Contingency Planning - set aside a contigency fund for unexpected costs
+vendor management - negotiate favorable terms and monitor
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
